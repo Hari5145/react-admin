@@ -1,0 +1,54 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Post One",
+      "body": "This is the post body One",
+      "publishedDate": "1995-08-04"
+    },
+    {
+      "id": "2",
+      "title": "Post Two",
+      "body": "This is the post body",
+      "publishedDate": "01-06-1998"
+    },
+    {
+      "id": "3",
+      "title": "Post Three",
+      "body": "This is the post body three",
+      "publishedDate": "2000-06-05"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "HariHaran",
+      "email": "hari@exaample.com"
+    },
+    {
+      "name": "Sandeep Dhanasekaran",
+      "email": "sandeepsandy8691@gmail.com",
+      "id": "MOD5q42"
+    },
+    {
+      "name": "Sandhya",
+      "email": "ss@example.com",
+      "id": "sqADIv3"
+    },
+    {
+      "name": "Aakash",
+      "email": "akka@exapmple.com",
+      "id": "1wz6hF2"
+    },
+    {
+      "name": "Mallika",
+      "email": "mommy@example.com",
+      "id": "L55NmGL"
+    },
+    {
+      "name": "Dhana",
+      "email": "dad@examplae.com",
+      "id": "BWMYDu0"
+    }
+  ]
+}
